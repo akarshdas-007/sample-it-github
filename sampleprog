@@ -1,0 +1,31 @@
+<html>
+
+ <head>
+<link rel="stylesheet" type="text/css" href="it7.css"/>
+ <title>css color commands</title>
+ </head>
+<body>
+
+  <p class=one>
+  This txt is yellow background color
+
+“That’s not a flower, Bambi,” said the mother, “it’s a butterfly.” </p>
+
+<div class=two>Once upon time a girl named Cinderella lived with her stepmother and two stepsisters.  Poor Cinderella had to work hard all day long so the others could rest. It was she who had to wake up each morning when it was still dark and cold to start the fire.  It was she who cooked the meals. It was she who kept the fire going. The poor girl could not stay clean, from all the ashes and cinders by the fire.
+</div>
+
+<ol>
+<li>It was she who kept the fire going. The poor girl could not stay clean, from all the ashes and cinders by the fire.</li>
+</ol>
+
+<span class=nine>It was she who kept the fire going.</span>
+
+<div class=three>
+
+<a href="www.twiter.com" target=_blank>Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+ <a href="www.contacttwiter" target=_blank>Contact&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="about twiter" target=_blank>About us</a>
+</div>
+
+ </body>
+</html>
